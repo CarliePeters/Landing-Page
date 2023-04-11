@@ -1,0 +1,52 @@
+/*Style sheet*/
+
+h1{
+    color: antiquewhite;
+    background-color: #070b23;
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+p{
+    color: #070b23;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width: 250;
+    position: relative;
+    padding-left: 42%;
+}
+
+/*Table stuff*/
+table{
+    text-align: center;
+    margin-left: 36%;
+    background-color: antiquewhite;
+    border: 15px solid #070b23;
+
+    
+}
+td{
+    border: 5px solid #070b23;
+    background-color: #070b23;
+}
+td:hover{
+    background-color:antiquewhite;
+}
+
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+a:hover {
+    color: #070b23;
+}
+
+
+/*Footer*/
+footer{
+    text-align: center;
+}
