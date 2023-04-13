@@ -1,5 +1,10 @@
 /*Style sheet*/
 
+body{
+    border: #070b23;
+    border-style: groove;
+    border-width: 5%;
+}
 h1{
     color: antiquewhite;
     background-color: #070b23;
